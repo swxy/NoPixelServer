@@ -1,6 +1,6 @@
 ## NoPixel 2.0 Files
 
-```markdown
+```
 
 nopickles
 
