@@ -3,17 +3,18 @@
 ```markdown
 nopickles
 
+
 Swxy#0001 Rubidium#7756(hawkeye) Full Nopixel Files from 2.0
 
-NoPixel Launchers Source: https://github.com/swxy/nopixelaunchersource
+# NoPixel Launchers Source: https://github.com/swxy/nopixelaunchersource
 
-Preview of the server : https://www.youtube.com/watch?v=TV4m8urqEus&t
+## Preview of the server : https://www.youtube.com/watch?v=TV4m8urqEus&t
 
-SQL : https://mega.nz/file/iZtiUZ4b#ru1JOCeFhitJsMAvfSMl1PCTHLZEsGG_l2qixP3PjzQ
+### SQL : https://mega.nz/file/iZtiUZ4b#ru1JOCeFhitJsMAvfSMl1PCTHLZEsGG_l2qixP3PjzQ
 
 Enjoy Swxy#0001 :)
 
-Installation
+Installation: 
 Create a FiveM server (guide)
 Stop the server
 Open the new folder that was created under the txData folder
