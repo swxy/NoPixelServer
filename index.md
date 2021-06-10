@@ -24,3 +24,4 @@ Clone this repository to that folder
 Run nopixel.sql in your database
 Run set-passwords.bat (requires wlr - I used Ubuntu)
 Start the server
+```
