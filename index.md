@@ -1,6 +1,6 @@
 ## NoPixel 2.0 Files
 
-```
+
 
 nopickles
 
@@ -15,6 +15,7 @@ Swxy#0001 Rubidium#7756(hawkeye) Full Nopixel Files from 2.0
 
 Enjoy Swxy#0001 :)
 
+```
 Installation: 
 Create a FiveM server (guide)
 Stop the server
