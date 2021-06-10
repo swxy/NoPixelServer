@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+## NoPixel 2.0 Files
+nopickles
 
-You can use the [editor on GitHub](https://github.com/swxy/NoPixelServer/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Swxy#0001 Rubidium#7756(hawkeye) Full Nopixel Files from 2.0
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+NoPixel Launchers Source: https://github.com/swxy/nopixelaunchersource
 
-### Markdown
+Preview of the server : https://www.youtube.com/watch?v=TV4m8urqEus&t
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+SQL : https://mega.nz/file/iZtiUZ4b#ru1JOCeFhitJsMAvfSMl1PCTHLZEsGG_l2qixP3PjzQ
 
-```markdown
-Syntax highlighted code block
+Enjoy Swxy#0001 :)
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/swxy/NoPixelServer/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Installation
+Create a FiveM server (guide)
+Stop the server
+Open the new folder that was created under the txData folder
+Delete everything in that folder
+Clone this repository to that folder
+Run nopixel.sql in your database
+Run set-passwords.bat (requires wlr - I used Ubuntu)
+Start the server
